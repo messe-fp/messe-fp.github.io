@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1666269733766,
+  "timestamp": 1666348604174,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.d62142fe3390d786.js",
+        "/main.1eef75ef121a520a.js",
         "/manifest.webmanifest",
         "/polyfills.ed871924877f443a.js",
         "/runtime.e893ddad7b1021a3.js",
@@ -48,6 +48,7 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/images/CCemblem/CC-Wappen.PNG",
+        "/assets/images/CCemblem/CC.png",
         "/assets/images/backgrounds/arena.jpg",
         "/assets/images/backgrounds/hsv.jpg",
         "/assets/images/backgrounds/spain.jpg",
@@ -149,6 +150,7 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/images/CCemblem/CC-Wappen.PNG": "962b310e6d00344a53ee09479b2279dde5ca1888",
+    "/assets/images/CCemblem/CC.png": "506ab9e38d318ccca723507a1fb520dd56baeed0",
     "/assets/images/backgrounds/arena.jpg": "c2a02199e2ff7d4a5fde2ea2adf0f6608698f7b1",
     "/assets/images/backgrounds/hsv.jpg": "c2f99ddfd99b131bf03ac9f3be06f1d13d81f17e",
     "/assets/images/backgrounds/spain.jpg": "731acbd3d89b484e8939ec6f2fdd98ad0843b99a",
@@ -218,8 +220,8 @@
     "/assets/images/flags_svg/Wales.svg": "6f0f4a1eece25b716258a444d4b17960924b5617",
     "/assets/images/table.png": "6b28f1cc6f1384636c68664c97f02667b374988c",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "4e713a25952ddf8ceb23c5e8e61aed3dcc5a6e18",
-    "/main.d62142fe3390d786.js": "41c48b7837c5cbac25b4b6224b30db6cf30dc02f",
+    "/index.html": "154bc1f251d19850776f3df01d57f5672bcc35d5",
+    "/main.1eef75ef121a520a.js": "8debe123ad04372131f745313298028c05fe3d39",
     "/manifest.webmanifest": "93e465daf780dafe887581d39407118e33e72bf4",
     "/overpass-v12-latin-700.7d009308ec38c419.woff2": "e62506bd4a05a9a68b81090c14e27bd30c7cceee",
     "/overpass-v12-latin-700.ba15b6a051f0fa8e.svg": "c2198acedf7b9dfde63ea8a7ef123fd6bfa5932d",
